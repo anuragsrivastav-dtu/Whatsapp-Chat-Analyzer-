@@ -29,18 +29,20 @@ This project is a social media chat analyzer built with Python and Streamlit. Th
 ![image](https://github.com/anuragsrivastav-dtu/Whatsapp-Chat-Analyzer-/assets/140643875/1e119dac-6df6-4d8c-ad15-8d6cd7743988)
 
 # Installation
-Clone the repository: gh repo clone amitkedia007/Whatsapp-chat-analyzer Navigate to the project directory: cd Whatsapp-chat-analyzer Install the required Python packages: pip install -r requirements.txt Usage Run the Streamlit application: streamlit run app.py Open your web browser and go to http://localhost:8501.
-
-Upload a chat log file using the file uploader in the sidebar.
+Clone this repository https://github.com/anuragsrivastav-dtu/Whatsapp-Chat-Analyzer-.git     
+Navigate to the project directory: cd Whatsapp-chat-analyzer     
+Install the required Python packages: pip install -r requirements.txt Usage Run the Streamlit application:   
+streamlit run app.py Open your web browser and go to http://localhost:8501  
+Upload a chat log file using the file uploader in the sidebar.  
 
 ![image](https://github.com/anuragsrivastav-dtu/Whatsapp-Chat-Analyzer-/assets/140643875/475ef7ce-90ae-4bc1-b5d5-ca00a0986a25)
 
 
-Select a user from the dropdown menu in the sidebar.
-Click the "Show Analysis" button in the sidebar to display the analysis.
+Select a user from the dropdown menu in the sidebar.  
+Click the "Show Analysis" button in the sidebar to display the analysis.  
 
 # Project Structure
-app.py: The main Streamlit application.
-preprocessor.py: Contains the preprocess function for preprocessing the chat log.
-helper.py: Contains various helper functions for the analyses.
-stopwords.txt: A text file containing common stopwords to be excluded from the word cloud and most common words analysis.
+app.py: The main Streamlit application.  
+preprocessor.py: Contains the preprocess function for preprocessing the chat log.  
+helper.py: Contains various helper functions for the analyses.  
+stopwords.txt: A text file containing common stopwords to be excluded from the word cloud and most common words analysis.  
