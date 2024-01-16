@@ -1,0 +1,9 @@
+streamlit
+wordcloud
+pandas
+numpy
+matplotlib
+emoji==1.7.0
+plotly
+textblob
+pyyaml
