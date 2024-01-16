@@ -4,7 +4,7 @@ A streamlit Whatsapp chat analyzer app, which gives basic analytics about the ch
 
 Application Feature:
 
-Multilingual Support
+Multilingual Support,
 Individual Messenger Statistics
 Activity Cluster
 Emoji's distrubution
